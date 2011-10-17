@@ -1,0 +1,90 @@
+body {
+	background: #f5f5f5;
+	/* background from subtlepatterns.com */
+	background: url(square_bg.png);
+	color: #555;
+	font-size: 81.25%; /* 13px */
+	font-family: Georgia, serif;
+}
+
+h1, h2, h3 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* traditional scale */
+h1 { font-size: 1.5em; color: #222; }
+h2 { font-size: 1.33333em; color: #333; }
+h3 { font-size: 1.16667em; color: #444; }
+
+a {
+	color: #369;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+ul {
+	list-style-type: square;
+}
+
+#wrapper {
+	margin: auto;
+	padding-top: 15px;
+}
+
+#head h1 {
+	text-align: center;
+	font-size: 3em;
+	padding: 0;
+	margin: 0;
+	color: #333;
+}
+
+#menu {
+	background: #333;
+	margin-top: 15px;
+	border-bottom: 1px solid #f5f5f5;
+}
+
+	#menu ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+
+	#menu ul li {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		display: inline;
+	}
+
+	#menu a {
+		color: #fff;
+		display: block;
+		float: left;
+		border-right: 1px solid #f5f5f5;
+		text-decoration: none;
+		padding: 7px 15px 7px 15px;
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+
+	#menu li.current a {
+		background: #369;
+	}
+
+	#menu a:hover, #menu li.current a:hover {
+		background: #444;
+	}
+
+#body, #sidebar {
+	margin-top: 25px;
+}
+
+#footer {
+	margin-top: 30px;
+	text-align: center;
+	color: #999;
+}
