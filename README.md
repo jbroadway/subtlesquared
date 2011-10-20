@@ -1,4 +1,4 @@
-# SubtleSquared Template for Elefant CMS
+# SubtleSquared Theme for Elefant CMS
 
 * Author: Johnny Broadway, http://github.com/jbroadway
 * Website: http://github.com/jbroadway/subtlesquared
