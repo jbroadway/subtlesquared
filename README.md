@@ -15,8 +15,8 @@
 
 Homepage:
 
-![](http://github.com/jbroadway/subtlesquared/raw/master/subtlesquared/screenshot-index.png)
+![](http://github.com/jbroadway/subtlesquared/raw/master/screenshot-index.png)
 
 Inner pages:
 
-![](http://github.com/jbroadway/subtlesquared/raw/master/subtlesquared/screenshot-inner.png)
+![](http://github.com/jbroadway/subtlesquared/raw/master/screenshot-inner.png)
